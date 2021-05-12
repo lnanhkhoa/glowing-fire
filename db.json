@@ -1,6 +1,5 @@
 {
-  "mobile": {
-    "project": "mid",
-    "lock": true
+  "mid": {
+    "mobile": true
   }
 }
