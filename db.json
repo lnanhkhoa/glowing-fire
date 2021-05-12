@@ -1,4 +1,6 @@
 {
-  "project": "mid",
-  "lock": true
+  "mobile": {
+    "project": "mid",
+    "lock": true
+  }
 }
